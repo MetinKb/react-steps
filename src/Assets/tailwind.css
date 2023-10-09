@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.number {
+    @apply w-8 bg-gray-300 h-8 rounded-[50%] flex items-center justify-center cursor-pointer
+}
+
+.button {
+    @apply w-min h-min p-2 rounded-lg bg-[#7950f2] hover:brightness-110 text-white
+}
