@@ -1,4 +1,4 @@
-# Steps
+# Responsive Steps
 A simple step application that can be turned on and off.
 
 ## Phone & Computer View
